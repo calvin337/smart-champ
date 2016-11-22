@@ -1,0 +1,23 @@
+{
+  "name": "smart-champ",
+  "version": "1.0.0",
+  "description": "League of legends web application helper for summoners to determine the best pick for the situation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server/server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/calvin337/smart-champ.git"
+  },
+  "author": "Calvin Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/calvin337/smart-champ/issues"
+  },
+  "homepage": "https://github.com/calvin337/smart-champ#readme",
+  "dependencies": {
+    "express": "^4.14.0"
+  }
+}
